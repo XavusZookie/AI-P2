@@ -1,0 +1,5 @@
+﻿  Source.cpp
+H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Project2\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Project2\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Project2\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project2.vcxproj -> H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\x64\Debug\Project2.exe
