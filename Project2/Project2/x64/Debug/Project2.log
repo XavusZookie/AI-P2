@@ -1,5 +1,1 @@
-﻿  Source.cpp
-H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-H:\School\Cis\Cis 479 AI\AI-P2\Project2\Project2\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Project2.vcxproj -> H:\School\Cis\Cis 479 AI\AI-P2\Project2\x64\Debug\Project2.exe
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(439,5): error MSB8020: The build tools for v143 (Platform Toolset = 'v143') cannot be found. To build using the v143 build tools, please install v143 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
